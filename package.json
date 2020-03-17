@@ -1,0 +1,12 @@
+{
+  "name": "corona-backend",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@cubejs-backend/mysql-driver": "^0.18.6",
+    "@cubejs-backend/server": "^0.18.6"
+  }
+}
